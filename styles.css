@@ -12,20 +12,21 @@ h1 {
 }
 h2 {
   font-family: 'Josefin Slab', serif;
+  margin-left: 20px;
 }
 header > nav {
   float: right;
   margin: 15px;
 }
 header {
-    padding: 10px;
-    display: incline-block;
-    background: #666363;
-    width: 100%;
+  padding: 10px;
+  display: incline-block;
+  background: #666363;
+  width: 100%;
 }
 nav > a {
-padding: 10px;
-font-family: 'Baskervville', serif;
+  padding: 10px;
+  font-family: 'Baskervville', serif;
 }
 img {
   float: left;
@@ -41,10 +42,10 @@ footer {
 }
 
 footer > p {
-  width: 100%;
-  padding: 10px;
-  padding-top: 10px;
-  background: #747373;
+   width: 100%;
+   padding: 10px;
+   padding-top: 10px;
+   background: #747373;
 }
 section {
     position: absolute;
